@@ -1,1 +1,1 @@
-# assignment-1
+# Assignment-1 for CSC 372 by Mu'aaz Khan. Files include event.html, index.html, style.css, and an images folder. This is a page for a local event about bees.
